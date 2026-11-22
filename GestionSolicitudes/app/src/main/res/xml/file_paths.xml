@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- filesDir/evidencias/: fotografías ficticias asociadas a las solicitudes -->
+    <files-path
+        name="evidencias"
+        path="evidencias/" />
+</paths>
